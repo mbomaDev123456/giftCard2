@@ -1,0 +1,2 @@
+[2026-11-12 10:23:57] Error: Call to undefined method Front::commandeAction()
+{"chemin":"/commande","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Core\\Router.class.php","ligne":68}

@@ -1,0 +1,14 @@
+[2026-11-06 12:38:24] connexion admin réussie
+{"login":"admin","ip":"0.0.0.0","role":"super"}
+[2026-11-06 12:40:11] connexion admin réussie
+{"login":"admin","ip":"0.0.0.0","role":"super"}
+[2026-11-06 12:40:12] échec de connexion admin
+{"login":"admin","ip":"0.0.0.0","tentatives":1}
+[2026-11-06 12:43:05] connexion admin réussie
+{"login":"admin","ip":"0.0.0.0","role":"super"}
+[2026-11-06 12:43:05] échec de connexion admin
+{"login":"admin","ip":"0.0.0.0","tentatives":1}
+[2026-11-06 12:49:49] connexion admin réussie
+{"login":"admin","ip":"0.0.0.0","role":"super"}
+[2026-11-06 12:49:50] échec de connexion admin
+{"login":"admin","ip":"0.0.0.0","tentatives":1}

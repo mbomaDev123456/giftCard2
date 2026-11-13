@@ -1,0 +1,6 @@
+[2026-11-10 15:45:04] Error: Class "Admin" not found
+{"chemin":"/admin","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Core\\Router.class.php","ligne":67}
+[2026-11-10 15:46:24] Error: Class "Admin" not found
+{"chemin":"/admin","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Core\\Router.class.php","ligne":67}
+[2026-11-10 15:46:27] Error: Class "Admin" not found
+{"chemin":"/admin","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Core\\Router.class.php","ligne":67}

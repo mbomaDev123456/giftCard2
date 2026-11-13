@@ -1,0 +1,18 @@
+[2026-11-06 13:52:28] mysqli_sql_exception: Incorrect integer value: 'impressions + 1' for column 'impressions' at row 1
+{"chemin":"/","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Core\\Db.class.php","ligne":146}
+[2026-11-06 13:53:18] mysqli_sql_exception: Incorrect integer value: 'impressions + 1' for column 'impressions' at row 1
+{"chemin":"/","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Core\\Db.class.php","ligne":146}
+[2026-11-06 14:02:42] ErrorException: Undefined array key "rayon"
+{"chemin":"/catalogue","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Controller\\Front.class.php","ligne":61}
+[2026-11-06 14:02:46] ErrorException: Undefined array key "maison"
+{"chemin":"/catalogue","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Controller\\Front.class.php","ligne":66}
+[2026-11-06 14:03:19] ErrorException: Undefined array key "rayon"
+{"chemin":"/catalogue","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Controller\\Front.class.php","ligne":61}
+[2026-11-06 14:13:52] ErrorException: Undefined array key "nom"
+{"chemin":"/panier","fichier":"C:\\Server\\WebDev\\tozeur-shop\\views\\store\\panier.php","ligne":126}
+[2026-11-06 14:13:53] ErrorException: Undefined array key "nom"
+{"chemin":"/panier","fichier":"C:\\Server\\WebDev\\tozeur-shop\\views\\store\\panier.php","ligne":126}
+[2026-11-06 14:14:28] ErrorException: Undefined array key "nom"
+{"chemin":"/panier","fichier":"C:\\Server\\WebDev\\tozeur-shop\\views\\store\\panier.php","ligne":126}
+[2026-11-06 14:34:10] Error: Class "Api" not found
+{"chemin":"/ws/banniere/clic","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Core\\Router.class.php","ligne":67}

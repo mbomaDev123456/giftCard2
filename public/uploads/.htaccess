@@ -1,0 +1,11 @@
+# Dossier d'images : aucun script ne doit y être exécuté, ni listé.
+Options -Indexes -ExecCGI
+<IfModule mod_authz_core.c>
+    <FilesMatch "\.(php|phtml|phar|pl|py|cgi|sh|htaccess)$">
+        Require all denied
+    </FilesMatch>
+</IfModule>
+<IfModule mod_headers.c>
+    Header set Content-Security-Policy "default-src 'none'"
+    Header set X-Content-Type-Options "nosniff"
+</IfModule>

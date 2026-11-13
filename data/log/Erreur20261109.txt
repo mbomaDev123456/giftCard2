@@ -1,0 +1,2 @@
+[2026-11-09 18:47:59] Error: Class "Api" not found
+{"chemin":"/ws/banniere/clic","fichier":"C:\\Server\\WebDev\\tozeur-shop\\Core\\Router.class.php","ligne":67}
