@@ -1,3 +1,9 @@
 
 /data/log/*
 /var/sessions/*
+
+/data/log/*
+/var/sessions/*
+
+/data/log/
+/var/sessions/
